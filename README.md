@@ -13,7 +13,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 ### Links
 
 <!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
-- Live Site URL: [https://lpdesign-clipboard-landing-page.netlify.app/]
+- Live Site URL: https://lpdesign-clipboard-landing-page.netlify.app/
 
 ### Built with
 
