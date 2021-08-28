@@ -10,10 +10,10 @@ This is my solution to the [Clipboard landing page challenge on Frontend Mentor]
 
 Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-<!-- ### Links
+### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+- Live Site URL: https://lpdesign-clipboard-landing-page.netlify.app/
 
 ### Built with
 
